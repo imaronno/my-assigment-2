@@ -260,6 +260,7 @@ body {
     color: white;
     border-radius: 25px;
     font-family: 'Poppins', sans-serif;
+    height: 120%;
 }
 
 .input-last {
