@@ -204,26 +204,26 @@ body {
 }
 
 #div-all-img-2 {
-    margin-left: 39%;
+    margin-left: 37%;
     margin-top: -30%;
 }
 
 #div-all-img-3 {
-    margin-left: 69%;
+    margin-left: 66%;
     margin-top: -30%;
 }
 
 #div-all-img-4 {
-    margin-left: 8%;
+    margin-left: 8%
 }
 
 #div-all-img-5 {
-    margin-left: 39%;
+    margin-left: 37%;
     margin-top: -30%;
 }
 
 #div-all-img-6 {
-    margin-left: 69%;
+    margin-left: 66%;
     margin-top: -30%;
 }
 
@@ -269,3 +269,46 @@ body {
     border-radius: 25px;
     font-family: 'Poppins', sans-serif;
 }
+
+.Footer {
+    background-color: rgba(0, 0, 0, 0.933);
+    height: 500px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.infor-2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+
+.infor-3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    gap: 5px;
+}
+
+#facebook {
+    color: blue;
+}
+
+#instagram {
+    color: tomato;
+}
+
+#linkedin {
+    color: rgba(0, 0, 255, 0.556);
+}
+
+.infor-4 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 8%;
+    padding-left: 2%;
+}
+
+hr {}
